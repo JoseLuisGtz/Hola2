@@ -10,7 +10,7 @@ namespace ConsoleHolaGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola mundo con Git");
+            Console.WriteLine("Hola mundo con Git. Y antes de clonar");
         }
     }
 }
